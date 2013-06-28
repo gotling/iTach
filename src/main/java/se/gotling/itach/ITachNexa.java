@@ -1,4 +1,4 @@
-package se.gotling.itachcontrol;
+package se.gotling.itach;
 
 /**
  * Simple application to try out library and use stand alone

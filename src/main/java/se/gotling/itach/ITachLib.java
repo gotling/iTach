@@ -1,4 +1,4 @@
-package se.gotling.itachcontrol;
+package se.gotling.itach;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

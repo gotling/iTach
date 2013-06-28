@@ -1,4 +1,4 @@
-package se.gotling.itachcontrol;
+package se.gotling.itach;
 
 /**
  * Class to build comma separated IR-pulse values recognized by iTach module
